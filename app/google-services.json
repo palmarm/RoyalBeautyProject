@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714076806602",
+    "project_id": "royalbeautyproject-92ff7",
+    "storage_bucket": "royalbeautyproject-92ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714076806602:android:777bf099be9da7a35d0333",
+        "android_client_info": {
+          "package_name": "com.example.royalbeautyproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHorWNlbpKObjOxglNRrqSiW0Q7Ri73L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
